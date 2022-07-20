@@ -1,1 +1,1 @@
-# Swagger-TD2-STD21082
+https://petstore.swagger.io/?url=https://raw.githubusercontent.com/AnatoleRajoelison/Swagger-TD2-STD21082/main/TD2.yaml
