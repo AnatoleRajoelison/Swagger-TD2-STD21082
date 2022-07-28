@@ -1,10 +1,10 @@
 openapi: 3.0.1
 info:
-  title: STD21101 API
+  title: STD21082 API
   description: "This is API's description of the management of a movie theater"
   version: 1.0.0
 servers:
- - url: https://STD21101.com
+ - url: https://STD21082.com
  - url: https://STD21XXX.com
 tags: 
  - name: Films
